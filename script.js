@@ -43,11 +43,6 @@ do {
   }
   pass = prompt("escribe tu contraseña es un 123");
 
-  // Borrar esto antes de entregarlo
-  // if (pass === "") {
-  //   alert("esto es trampa!! ¬.¬");
-  //   break;
-  // }
 } while (pass !== "123");
 
 if (pass === "123") {
