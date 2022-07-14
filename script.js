@@ -43,6 +43,7 @@ do {
   }
   pass = prompt("escribe tu contraseña es un 123");
 
+
 } while (pass !== "123");
 
 if (pass === "123") {
